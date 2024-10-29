@@ -1,0 +1,21 @@
+* {
+    font-family: Helvetica;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #008cba;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.8rem 1rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin: 0 0.5rem;
+  }
